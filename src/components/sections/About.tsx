@@ -14,14 +14,14 @@ export const About = () => {
             <img src={headshot} alt="Professional headshot of Your Name, software engineer" className="mx-auto aspect-square w-56 rounded-xl object-cover shadow-[var(--shadow-elegant)]" loading="lazy" />
             <div className="animate-fade-in">
               <p className="text-lg leading-relaxed text-foreground/90">
-                I am an adaptable and results-driven IT professional with expertise in software development, networking, and database management. I specialize in creating secure, efficient, and scalable solutions tailored to modern business needs. With a passion for technology and a commitment to continuous learning, I strive to deliver exceptional results in every project I undertake.
+                Hi, I'm <b>Sofonias Dawit</b>, an IT professional with expertise in software development, networking, and database management. I specialize in creating secure, efficient, and scalable solutions tailored to modern business needs. With a passion for technology and a commitment to continuous learning, I strive to deliver exceptional results in every project I undertake.
               </p>
               <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
                 {[
                   "Web Development",
                   "Networking",
+                  "Mobile App Dev",
                   "Database Mgmt",
-                  "Cybersecurity",
                 ].map((s) => (
                   <div key={s} className="rounded-md border bg-card px-3 py-2 text-center text-sm shadow-sm">
                     {s}

@@ -7,7 +7,7 @@ export const Resume = () => {
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="font-display text-3xl font-semibold">Resume</h2>
           <p className="mt-3 text-muted-foreground">
-            Results-driven software engineer with a strong foundation in systems design, secure architectures, and scalable delivery.
+            Results-driven software engineer with a strong foundation in systems design, secure architectures, and scalable delivery. You can review my resume(CV) below.
           </p>
           <div className="mt-6">
   <a

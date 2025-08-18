@@ -23,7 +23,7 @@ export const Hero = () => {
         <div className="container relative z-10 mx-auto px-6 py-24">
           <div className="mx-auto max-w-3xl text-center animate-enter">
             <h1 className="font-display text-4xl font-bold tracking-tight sm:text-5xl">
-              Sofonias Dawit
+              Welcome To My Website
             </h1>
             <p className="mt-3 text-lg text-muted-foreground sm:text-xl"><b>
               Turning Complex Problems into Elegant Digital Solutions</b>
