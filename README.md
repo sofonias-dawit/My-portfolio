@@ -1,52 +1,53 @@
-# Welcome to your Lovable project
+# My Portfolio
 
-## Project info
-A portfolio website which has interactive and resposnive user interface.
+Welcome to my personal portfolio website! This project showcases my work and skills, through an interactive and responsive user interface.
 
-**Use your preferred IDE**
+## Live Demo
+Check out the live website here: [sofonias.netlify.app](https://sofonias.netlify.app/)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## About
+This is a portfolio website built to demonstrate my skills in modern web development, with an emphasis on responsive design and interactivity. It serves as a personal showcase and a contact hub for potential collaborators or employers.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Features
+- Fully responsive design
+- Interactive UI components
+- Built with modern web development tools
+- Easy to maintain and extend
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
+## Technologies Used
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite** – Frontend build tool
+- **TypeScript** – Strongly typed JavaScript
+- **React** – UI library
+- **shadcn-ui** – Component library for React
+- **Tailwind CSS** – Utility-first CSS framework
 
-Thank you!
+## Getting Started
+Follow these steps to set up and run the project locally:
+
+### Prerequisites
+- Node.js & npm installed (recommended to install via [nvm](https://github.com/nvm-sh/nvm))
+
+### Steps
+1. **Clone the repository**
+```bash
+git clone <[YOUR_GIT_URL](https://github.com/sofonias-dawit/My-portfolio)>
+Navigate to the project directory
+
+bash
+Copy code
+cd My-portfolio
+Install dependencies
+
+bash
+Copy code
+npm install
+Start the development server
+
+bash
+Copy code
+npm run dev
+```
+Contact
+Author: Sofonias Dawit
