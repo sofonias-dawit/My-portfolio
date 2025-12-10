@@ -32,7 +32,7 @@ Follow these steps to set up and run the project locally:
 ### Steps
 1. **Clone the repository**
 ```bash
-git clone <[YOUR_GIT_URL](https://github.com/sofonias-dawit/My-portfolio)>
+git clone <[GIT_URL]>
 Navigate to the project directory
 
 bash
